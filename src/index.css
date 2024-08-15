@@ -1,0 +1,58 @@
+.heading {
+  font-size:xx-large;
+  text-align: left;
+}
+
+label {
+  font-size: large;
+  text-align: left;
+}
+
+.form-control {
+  width: 90%;
+  text-align: center;
+}
+
+.app {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+
+.btn {
+  font-size: large;
+  width: 90%
+}
+
+#CV-form-display {
+  height: 120vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid rgb(204, 210, 252);;
+  width: 40%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border-radius: 5mm;
+  background-color: rgb(204, 210, 252);
+
+}
+
+#CV-Form {
+  display: flex;
+  height: 120vh;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid rgb(204, 210, 252);;
+  width: 40%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border-radius: 5mm;
+  background-color: rgb(204, 210, 252);;
+  
+}
